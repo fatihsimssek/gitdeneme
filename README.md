@@ -1,3 +1,3 @@
 # gitdeneme
 archis kurs
-ömer deneme
+ömer deneme txt
