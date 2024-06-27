@@ -1,0 +1,2 @@
+# gitdeneme
+archis kurs
