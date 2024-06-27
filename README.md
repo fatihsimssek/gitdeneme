@@ -1,3 +1,3 @@
 # gitdeneme
 archis kurs
-fatih deneme
+ömer deneme
